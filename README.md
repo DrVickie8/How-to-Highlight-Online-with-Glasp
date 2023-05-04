@@ -26,7 +26,7 @@ There is no AI-generated content and was written with the [Google Developer's Do
 ## Acknowledgements
 
 - [Wisdom Nwokocha](https://twitter.com/Joklinztech)
-- [Kei Watanabe](hhttps://twitter.com/KeiWatanabe17)
+- [Kei Watanabe](https://twitter.com/KeiWatanabe17)
 - [Isaac Rejoice](https://twitter.com/IsaacRejoice2)
 
 ## Tool used
